@@ -11,5 +11,5 @@ Je suis Bérenger FERGUENIS, actuellement en formation chez STUDI depuis septemb
 Les fichiers PDF sont consultables dans leurs dossiers respectifs.
 
 ## logiciels utilisé 
-[Figma](https://www.figma.com/)
-[remixicon](https://remixicon.com/)
+- [Figma](https://www.figma.com/) 
+- [remixicon](https://remixicon.com/)
